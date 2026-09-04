@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>我的博客</title>
-    <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
+    <link>https://LuoTYi712.github.io/Boil-blogs/</link>
     <description>一个用 GitHub Pages 搭的小博客。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 18 May 2026 13:43:33 GMT</lastBuildDate>
-    <atom:link href="https://YOUR_USERNAME.github.io/YOUR_REPO/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Sep 2026 09:53:20 GMT</lastBuildDate>
+    <atom:link href="https://LuoTYi712.github.io/Boil-blogs/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>你的新博客 · 从这里开始</title>
-      <link>https://your_username.github.io/YOUR_REPO/post/welcome/</link>
+      <link>https://luotyi712.github.io/Boil-blogs/post/welcome/</link>
       <guid isPermaLink="false">welcome</guid>
       <pubDate>Wed, 31 Dec 2025 16:00:00 GMT</pubDate>
       <author>Your Name</author>

@@ -8,12 +8,12 @@ export const VERSION = '20260512184000';
 export const CONFIG = {
   repo: {
     // ⚠ 改成你自己的：你的 GitHub 用户名 / 仓库名 / 默认分支
-    owner: "YOUR_USERNAME",
-    name: "YOUR_REPO",
+    owner: "LuoTYi712",
+    name: "Boil-blogs",
     branch: "main"
   },
   // ⚠ 限制只允许哪些 GitHub 用户登录后台（即使别人有 PAT 也进不来）
-  authorizedUsers: ["YOUR_USERNAME"],
+  authorizedUsers: ["LuoTYi712"],
   site: {
     title: "我的博客",
     subtitle: "记录想法与代码",
@@ -23,7 +23,7 @@ export const CONFIG = {
     avatar: "https://avatars.githubusercontent.com/u/0?v=4",
     description: "一个用 GitHub Pages 搭的小博客。",
     // ⚠ 改成你的 Pages 站点地址，末尾不要 /
-    url: "https://YOUR_USERNAME.github.io/YOUR_REPO",
+    url: "https://LuoTYi712.github.io/Boil-blogs",
     locale: "zh-CN",
     nav: [
       { name: "首页", href: "./" },
