@@ -1,7 +1,7 @@
 {
-  "name": "我的博客",
-  "short_name": "我的博客",
-  "description": "一个用 GitHub Pages 搭的小博客。",
+  "name": "小破站",
+  "short_name": "小破站",
+  "description": "前进，前进，不择手段的前进！",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

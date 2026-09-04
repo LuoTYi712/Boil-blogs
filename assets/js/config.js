@@ -15,13 +15,13 @@ export const CONFIG = {
   // ⚠ 限制只允许哪些 GitHub 用户登录后台（即使别人有 PAT 也进不来）
   authorizedUsers: ["LuoTYi712"],
   site: {
-    title: "我的博客",
-    subtitle: "记录想法与代码",
-    author: "Your Name",
+    title: "小破站",
+    subtitle: "记录",
+    author: "吕小树",
     logo: "",
     favicon: "",
     avatar: "https://avatars.githubusercontent.com/u/0?v=4",
-    description: "一个用 GitHub Pages 搭的小博客。",
+    description: "前进，前进，不择手段的前进！",
     // ⚠ 改成你的 Pages 站点地址，末尾不要 /
     url: "https://LuoTYi712.github.io/Boil-blogs",
     locale: "zh-CN",
