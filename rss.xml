@@ -5,8 +5,17 @@
     <link>https://LuoTYi712.github.io/Boil-blogs/</link>
     <description>前进，前进，不择手段的前进！</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:52:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:39:06 GMT</lastBuildDate>
     <atom:link href="https://LuoTYi712.github.io/Boil-blogs/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇</title>
+      <link>https://luotyi712.github.io/Boil-blogs/post/20260904/</link>
+      <guid isPermaLink="false">第一篇——随便写点什么</guid>
+      <pubDate>Fri, 04 Sep 2026 12:38:43 GMT</pubDate>
+      <author>吕小树</author>
+      <category>博客建站</category><category>豆包</category><category>气</category><category>啊啊啊</category><category>斗智斗勇</category>
+      <description><![CDATA[弄了一下午，从上课两点多开始一直到现在20点04，一路磕磕绊绊，先是用命令拉取拉不下来。 于是手动下载压缩包。放进vscode，上传半天传不上去，因为用的国内代…]]></description>
+    </item>
     <item>
       <title>你的新博客 · 从这里开始</title>
       <link>https://luotyi712.github.io/Boil-blogs/post/welcome/</link>

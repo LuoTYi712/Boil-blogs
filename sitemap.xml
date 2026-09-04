@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://LuoTYi712.github.io/Boil-blogs/</loc>
-    <lastmod>2026-09-04T11:52:50.506Z</lastmod>
+    <lastmod>2026-09-04T12:39:06.925Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://LuoTYi712.github.io/Boil-blogs/tags.html</loc>
-    <lastmod>2026-09-04T11:52:50.506Z</lastmod>
+    <lastmod>2026-09-04T12:39:06.925Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://LuoTYi712.github.io/Boil-blogs/archives.html</loc>
-    <lastmod>2026-09-04T11:52:50.506Z</lastmod>
+    <lastmod>2026-09-04T12:39:06.925Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://LuoTYi712.github.io/Boil-blogs/series.html</loc>
-    <lastmod>2026-09-04T11:52:50.506Z</lastmod>
+    <lastmod>2026-09-04T12:39:06.925Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://LuoTYi712.github.io/Boil-blogs/tools.html</loc>
-    <lastmod>2026-09-04T11:52:50.506Z</lastmod>
+    <lastmod>2026-09-04T12:39:06.925Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://LuoTYi712.github.io/Boil-blogs/tool-air-conditioner.html</loc>
-    <lastmod>2026-09-04T11:52:50.506Z</lastmod>
+    <lastmod>2026-09-04T12:39:06.925Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://luotyi712.github.io/Boil-blogs/post/20260904/</loc>
+    <lastmod>2026-09-04T12:38:43.889Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
