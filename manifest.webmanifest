@@ -1,0 +1,19 @@
+{
+  "name": "我的博客",
+  "short_name": "我的博客",
+  "description": "一个用 GitHub Pages 搭的小博客。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ea6f5a",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

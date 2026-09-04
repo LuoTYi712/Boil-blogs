@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="referrer" content="no-referrer-when-downgrade">
+  <title>随笔 · 加载中…</title>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+  <link rel="stylesheet" href="assets/css/common.css?v=20260513180000">
+  <link rel="stylesheet" href="assets/css/home.css?v=20260513180000">
+  <script>(function(){var s=localStorage;var t=s.getItem('blog_theme')||'auto';var d=t==='auto'?(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'):t;var p=s.getItem('blog_preset')||'jianshu';var h=document.documentElement;h.setAttribute('data-preset',p);h.setAttribute('data-mode',d);h.setAttribute('data-theme',d);h.dataset.themeChoice=t;})();</script>
+  <style>
+    .notes-page { max-width: 760px; margin: 28px auto; padding: 0 24px; }
+    .notes-page h1 { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
+    .notes-page .desc { color: var(--text-secondary); font-size: 14px; line-height: 1.65; margin-bottom: 20px; }
+    .notes-giscus-host {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px 18px;
+      background: var(--bg-secondary);
+      min-height: 120px;
+    }
+    .notes-giscus-host .comments-hint { font-size: 14px; color: var(--text-secondary); line-height: 1.6; }
+    .notes-giscus-host .comments-hint a { color: var(--primary); }
+    @media (max-width: 720px) {
+      .notes-page { margin: 16px auto; padding: 0 14px; }
+      .notes-page h1 { font-size: 20px; }
+    }
+  </style>
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#ea6f5a">
+  <link rel="apple-touch-icon" href="assets/icon.svg">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+</head>
+<body>
+  <div id="site-nav"></div>
+
+  <main class="notes-page">
+    <h1>随笔</h1>
+    <p class="desc">这里是一处开放广场，谁都可以随手写几句想法。</p>
+    <div class="notes-giscus-host" id="notesGiscusHost"></div>
+  </main>
+
+  <div id="site-footer"></div>
+  <div id="site-overlays"></div>
+
+  <script type="module" src="assets/js/notes.js?v=20260516160000"></script>
+</body>
+</html>

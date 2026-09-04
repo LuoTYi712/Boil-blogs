@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的博客</title>
+    <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
+    <description>一个用 GitHub Pages 搭的小博客。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 18 May 2026 13:43:33 GMT</lastBuildDate>
+    <atom:link href="https://YOUR_USERNAME.github.io/YOUR_REPO/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你的新博客 · 从这里开始</title>
+      <link>https://your_username.github.io/YOUR_REPO/post/welcome/</link>
+      <guid isPermaLink="false">welcome</guid>
+      <pubDate>Wed, 31 Dec 2025 16:00:00 GMT</pubDate>
+      <author>Your Name</author>
+      <category>博客建站</category>
+      <description><![CDATA[你刚 fork 了一份 GitHub Pages + 在线伪后台的博客模板。这篇文章会带你三步把它真正变成自己的站点。]]></description>
+    </item>
+  </channel>
+</rss>

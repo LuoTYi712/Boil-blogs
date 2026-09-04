@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="referrer" content="no-referrer-when-downgrade">
+  <title>标签 · 加载中…</title>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+  <link rel="stylesheet" href="assets/css/common.css?v=20260512184000">
+  <link rel="stylesheet" href="assets/css/home.css?v=20260512184000">
+  <script>(function(){var s=localStorage;var t=s.getItem('blog_theme')||'auto';var d=t==='auto'?(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'):t;var p=s.getItem('blog_preset')||'jianshu';var h=document.documentElement;h.setAttribute('data-preset',p);h.setAttribute('data-mode',d);h.setAttribute('data-theme',d);h.dataset.themeChoice=t;})();</script>
+  <style>
+    .tag-page { max-width: var(--content-max); margin: 28px auto; padding: 0 24px; }
+    .tag-page h1 { font-size: 24px; margin-bottom: 8px; font-weight: 700; }
+    .tag-page .desc { color: var(--text-secondary); font-size: 14px; margin-bottom: 24px; }
+    .tag-cloud-big {
+      display: flex; flex-wrap: wrap; gap: 10px;
+      padding: 24px;
+      background: var(--bg-soft);
+      border-radius: var(--radius-lg);
+      margin-bottom: 28px;
+    }
+    .tag-cloud-big .tag {
+      font-size: 14px;
+      padding: 5px 14px;
+      cursor: pointer;
+    }
+    .tag-cloud-big .tag .count {
+      font-size: 11px;
+      color: currentColor;
+      opacity: 0.68;
+      margin-left: 4px;
+    }
+    .tag-cloud-big .tag.active .count { color: inherit; opacity: 0.82; }
+    .group-block { margin-bottom: 32px; }
+    .group-title {
+      font-size: 16px;
+      font-weight: 600;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+    .group-title .count { color: var(--text-tertiary); font-weight: 400; margin-left: 8px; font-size: 13px; }
+    .group-tag-title {
+      display: inline-flex;
+      align-items: center;
+      padding: 3px 10px;
+      border-radius: 999px;
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      border: 1px solid var(--tag-border);
+    }
+    [data-mode="dark"] .group-tag-title,
+    [data-theme="dark"] .group-tag-title {
+      background: var(--tag-dark-bg);
+      color: var(--tag-dark-text);
+      border-color: var(--tag-dark-border);
+    }
+    @media (max-width: 720px) {
+      .tag-page { margin: 16px auto; padding: 0 14px; }
+      .tag-page h1 { font-size: 20px; }
+      .tag-page .desc { font-size: 13px; margin-bottom: 16px; }
+      .tag-cloud-big { padding: 14px; gap: 8px; margin-bottom: 22px; border-radius: 10px; }
+      .tag-cloud-big .tag { font-size: 12.5px; padding: 4px 11px; }
+      .group-block { margin-bottom: 22px; }
+      .group-title { font-size: 14.5px; margin-bottom: 10px; }
+    }
+  </style>
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#ea6f5a">
+  <link rel="apple-touch-icon" href="assets/icon.svg">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+</head>
+<body>
+  <div id="site-nav"></div>
+
+  <main class="tag-page">
+    <h1>标签</h1>
+    <p class="desc" id="tagDesc">点击标签筛选文章</p>
+    <div class="tag-cloud-big" id="tagCloud"></div>
+    <ul class="post-list" id="postList"></ul>
+    <div id="groupList"></div>
+  </main>
+
+  <div id="site-footer"></div>
+  <div id="site-overlays"></div>
+
+  <script type="module" src="assets/js/tags.js?v=20260512184000"></script>
+</body>
+</html>
