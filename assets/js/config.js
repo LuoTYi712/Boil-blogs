@@ -3,7 +3,7 @@
 // 这里都是公开信息，不要把 token 等密钥放进来
 // ============================================================================
 
-export const VERSION = '20260904205619';
+export const VERSION = '20260906013940';
 
 export const CONFIG = {
   repo: {
@@ -18,7 +18,7 @@ export const CONFIG = {
     author: "吕小树",
     logo: "https://ts2.tc.mm.bing.net/th/id/OIP-C.zTriqUjJClgqCjRXya8DgAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     favicon: "https://ts4.tc.mm.bing.net/th/id/OIP-C.fjbR3qNay50P895fUCYYdgHaJh?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    avatar: "https://avatars.githubusercontent.com/u/0?v=4",
+    avatar: "https://c-ssl.duitang.com/uploads/blog/202407/06/N5S3DgyASPg4vZ5.jpg",
     description: "前进，前进，不择手段的前进！",
     url: "https://LuoTYi712.github.io/Boil-blogs",
     locale: "zh-CN",
