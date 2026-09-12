@@ -5,8 +5,17 @@
     <link>https://LuoTYi712.github.io/Boil-blogs/</link>
     <description>前进，前进，不择手段的前进！</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Sep 2026 17:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:00:34 GMT</lastBuildDate>
     <atom:link href="https://LuoTYi712.github.io/Boil-blogs/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用用脑子解出一道题好爽（好吧，虽然是个简单题）</title>
+      <link>https://luotyi712.github.io/Boil-blogs/post/20260912/</link>
+      <guid isPermaLink="false">用xia</guid>
+      <pubDate>Sat, 12 Sep 2026 13:00:20 GMT</pubDate>
+      <author>吕小树</author>
+      <category>啊啊啊</category><category>我太牛逼了</category><category>MySQL</category><category>牛客编程题</category>
+      <description><![CDATA[查找 employees 里入职员工时间升序排名的情况下倒数第三的员工所有信息 注意：可能会存在同一个日期入职的员工，所以入职员工时间排名倒数第三的员工可能不止…]]></description>
+    </item>
     <item>
       <title>第一篇</title>
       <link>https://luotyi712.github.io/Boil-blogs/post/20260904/</link>
