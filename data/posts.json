@@ -13,10 +13,11 @@
         "MySQL",
         "牛客编程题"
       ],
-      "path": "posts/用xia.md",
       "cover": "https://ts1.tc.mm.bing.net/th/id/R-C.c48f02e011cad1659c92bc65eea30b06?rik=F1St4G5CYcskxw&riu=http%3a%2f%2fi5.hexun.com%2f2023-10-10%2f210507055.jpg&ehk=JbTNmOQZIei0qEqBKHfNHMMimzcR%2bB0m61Xx4EC2ay4%3d&risl=&pid=ImgRaw&r=0",
       "pinned": true,
-      "carousel": true
+      "carousel": true,
+      "path": "posts/用xia.md",
+      "urlKey": "20260912"
     },
     {
       "slug": "第一篇——随便写点什么",
