@@ -1,13 +1,10 @@
 ---
-title: "你的新博客 · 从这里开始"
-date: 2026-01-01T00:00:00+08:00
-updated: 2026-01-01T00:00:00+08:00
-author: "Your Name"
-tags:
-  - 博客建站
-pinned: true
-pinnedOrder: 1
-summary: "你刚 fork 了一份 GitHub Pages + 在线伪后台的博客模板。这篇文章会带你三步把它真正变成自己的站点。"
+title: 你的新博客 · 从这里开始
+date: "2026-01-01T00:00:00+08:00"
+updated: "2026-09-12T13:08:12.580Z"
+author: Your Name
+tags: []
+summary: 你刚 fork 了一份 GitHub Pages + 在线伪后台的博客模板。这篇文章会带你三步把它真正变成自己的站点。
 ---
 
 如果你看到这一篇，说明你已经成功把这个博客模板部署到了 GitHub Pages 上。
