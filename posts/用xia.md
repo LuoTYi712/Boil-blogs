@@ -1,10 +1,13 @@
 ---
 title: 用用脑子解出一道题好爽（好吧，虽然是个简单题）
 date: "2026-09-12T13:00:20.628Z"
-updated: "2026-09-12T13:00:20.628Z"
+updated: "2026-09-12T13:04:54.390Z"
 author: 吕小树
 tags: [啊啊啊, 我太牛逼了, MySQL, 牛客编程题]
+cover: "https://ts1.tc.mm.bing.net/th/id/R-C.206021b09162db8357509039405de3f7?rik=6npu1ofsCfsA6Q&riu=http%3a%2f%2fp2.ifengimg.com%2ffck%2f2017_43%2f1064b5d7b3ae7d9_w1641_h1232.jpg&ehk=Rs6XZi5rbHKmRArYGiHsGQRp0SIUhXkpuptDyzOdGPE%3d&risl=&pid=ImgRaw&r=0"
 summary: 查找 employees 里入职员工时间升序排名的情况下倒数第三的员工所有信息 注意：可能会存在同一个日期入职的员工，所以入职员工时间排名倒数第三的员工可能不止…
+pinned: true
+carousel: true
 ---
 
 #### 查找 employees 里入职员工时间升序排名的情况下倒数第三的员工所有信息
